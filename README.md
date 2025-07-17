@@ -51,7 +51,3 @@ See our [CONTRIBUTING.md](./CONTRIBUTING.md) for details.
 Small businesses are the heart of Vermont’s economy — but navigating resources can be confusing and time-consuming. This kit aims to simplify the process by putting everything in one place, organized and easy to understand.
 
 ---
-
-## Made with Love in Vermont
-
-This pr
