@@ -4,6 +4,8 @@
 
 The **Vermont Business Kit** is a growing open-source collection of tools, resources, and community connections to support businesses across the Green Mountain State. Whether you're starting a new venture, scaling an existing business, or supporting your local economy, this kit is designed to help you find what you need.
 
+[Vermont Chatbot](https://chatgpt.com/g/g-6789db4056c0819186b0b316a29a3f98-vermont-small-business-switchboard)
+
 ---
 
 ## What You'll Find Here
