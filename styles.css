@@ -1,0 +1,129 @@
+
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+nav a:hover {
+    background-color: #575757;
+}
+
+.nav-left a {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nav-right a {
+    margin-left: 20px;
+}
+
+.warning {
+        background-color: yellow;
+        padding: 10px;
+        text-align: center;
+        font-weight: bold;
+}
+
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+main {
+    padding: 30px;
+}
+
+main h2 {
+    color: #1e1e1e;
+}
+
+main p {
+    color: #1e1e1e;
+}
+
+main ul {
+    display: list-item;
+    padding-left: 30px;
+}
+
+main ul li a:hover {
+    text-decoration: underline;
+}
+
+    .hero {
+      background: url('https://images.unsplash.com/photo-1519125323398-675f0ddb6308?fit=crop&w=1950&q=80') no-repeat center center/cover;
+      height: 300px;
+      color: white;
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 20px;
+    }
+    .hero h1 {
+      font-size: 2.5em;
+      margin-bottom: 10px;
+    }
+    .hero p {
+      font-size: 1.2em;
+      margin-bottom: 20px;
+    }
+    .hero .buttons a {
+      background: #2e6b34;
+      color: white;
+      padding: 10px 20px;
+      margin: 5px;
+      border-radius: 4px;
+      text-decoration: none;
+    }
+    .section {
+      padding: 40px 20px;
+      max-width: 1100px;
+      margin: auto;
+    }
+    .cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 20px;
+      justify-content: space-around;
+    }
+    .card {
+      background: white;
+      padding: 20px;
+      border-radius: 8px;
+      flex: 1;
+      min-width: 250px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    footer {
+      background: #1e4a22;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+    input[type="email"] {
+      padding: 8px;
+      margin-top: 10px;
+      border: none;
+      border-radius: 4px;
+    }
+    .newsletter {
+      margin-top: 10px;
+    }
